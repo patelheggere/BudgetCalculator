@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Budget Calculator</string>
+    <string name="app_name">Money Plans</string>
     <string name="salary">How much is your pay?</string>
     <string name="date_format">Enter date in dd</string>
     <string name="next">next</string>

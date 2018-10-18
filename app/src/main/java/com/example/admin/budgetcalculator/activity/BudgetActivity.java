@@ -431,8 +431,8 @@ public class BudgetActivity extends AppCompatActivity {
             else {
                 linearLayoutTotal2.setVisibility(View.VISIBLE);
             }
-            textViewTotal.setText(getContext().getString(R.string.Rs)+""+total);
-            textViewTotal2.setText(getContext().getString(R.string.Rs)+""+total2);
+            textViewTotal.setText(""+total);
+            textViewTotal2.setText(""+total2);
 
             System.out.println("dfg:"+list2.size());
             if(list2.size()==0)

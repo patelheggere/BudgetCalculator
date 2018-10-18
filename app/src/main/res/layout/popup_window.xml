@@ -23,13 +23,13 @@
             android:id="@+id/credit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Credit" />
+            android:text="+(add)" />
 
         <RadioButton
             android:id="@+id/debit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Debit" />
+            android:text="-(minus)" />
     </RadioGroup>
 
     <RadioGroup
